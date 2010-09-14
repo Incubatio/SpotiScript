@@ -1,0 +1,1 @@
+spotiScript.bat spotify.pub
